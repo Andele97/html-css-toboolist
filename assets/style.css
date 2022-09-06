@@ -85,8 +85,39 @@ h1 {
   content: '\25BC';
 }
 
-.opzioni{
+.opzioni {
   font-weight: normal;
   font-size: 20px;
   margin: 10px;
+}
+
+.tendine .opzioni span {
+  padding: 6px;
+  font-size: 13px;
+  border-radius: 13px;
+  color: white;
+}
+
+.editorial {
+  background-color: #45ABEA;
+}
+
+.q1-goals {
+  background-color: #9C72E4;
+}
+
+.recruiting {
+  background-color: #64C0A9;
+}
+
+.mobile {
+  background-color: #F29E33;
+}
+
+.website {
+  background-color: #D863A1;
+}
+
+.sales {
+  background-color: #B0C926;
 }
