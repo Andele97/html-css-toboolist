@@ -86,10 +86,10 @@ h1 {
 }
 
 .opzioni {
-  font-weight: bold;
+  font-weight: normal;
   font-size: 20px;
-  margin-top: 20px;
   margin-bottom: 20px;
+  margin-left: 6px;
 }
 
 .opzioni::before {
@@ -97,7 +97,13 @@ h1 {
   color: #67C2AD;
   border: 1px solid #67C2AD;
   border-radius: 100%;
-  margin-right: 5px;
+  margin-right: 10px;
+}
+
+.multiplication::before {
+  content: '\2715';
+  color: #E7332B;
+  border: 1px solid #E7332B;
 }
 
 .tendine .opzioni span {
