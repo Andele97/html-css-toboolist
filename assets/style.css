@@ -98,12 +98,17 @@ h1 {
   border: 1px solid #67C2AD;
   border-radius: 100%;
   margin-right: 10px;
+  width: 3px;
+  height: 3px;
+  padding: 6px;
+  font-size: 12px;
 }
 
-.multiplication::before {
+.uncheck::before {
   content: '\2715';
   color: #E7332B;
   border: 1px solid #E7332B;
+  font-size: 12px;
 }
 
 .tendine .opzioni span {
