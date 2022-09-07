@@ -86,8 +86,7 @@ h1 {
 .opzioni {
   font-weight: normal;
   font-size: 20px;
-  margin-bottom: 20px;
-  margin-left: 6px;
+  margin: 0px 5px 20px;
 }
 
 .opzioni::before {
